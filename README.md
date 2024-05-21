@@ -1,28 +1,10 @@
 # Coffee-Shop-Sales
 Excel interactive Dashboard of Coffee Shop sales
 1. How do sales vary by day of the week and hours of the week?
-Day of the Week:
-
-Sales are fairly consistent across the weekdays with a slight increase towards the end of the week.
+Day of the Week:Sales are fairly consistent across the weekdays with a slight increase towards the end of the week.
 Highest sales occur on Friday (21,701 orders).
 Saturday has the lowest sales (20,510 orders).
 
-2. Are there any peak times for sales activity?
-Yes, the peak times for sales activity are between 8 AM and 11 AM. During these hours, the quantity of orders is significantly higher compared to other times of the day.
-
-
-Based on the provided dashboard, we can extract and analyze the following information to answer your questions:
-
-1. How do sales vary by day of the week and hours of the week?
-Day of the Week:
-
-Sales are fairly consistent across the weekdays with a slight increase towards the end of the week.
-Highest sales occur on Friday (21,701 orders).
-Saturday has the lowest sales (20,510 orders).
-Hours of the Day:
-
-Peak sales hours are in the morning, specifically from 8 AM to 11 AM.
-There's a significant drop in orders after 2 PM, indicating lower sales in the afternoon and evening.
 2. Are there any peak times for sales activity?
 Yes, the peak times for sales activity are between 8 AM and 11 AM. During these hours, the quantity of orders is significantly higher compared to other times of the day.
 
@@ -51,8 +33,8 @@ Quantity details aren't directly provided, but these products are the highest in
 
 
 7. How do product categories and types vary?
-Product Categories Based on Sales Revenue:
 
+Product Categories Based on Sales Revenue:
 Coffee: $269,952.45
 Bakery: $196,405.95
 Branded: $82,315.64
