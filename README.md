@@ -1,27 +1,35 @@
 # Coffee-Shop-Sales
 Excel interactive Dashboard of Coffee Shop sales
 1. How do sales vary by day of the week and hours of the week?
+
 Day of the Week:Sales are fairly consistent across the weekdays with a slight increase towards the end of the week.
 Highest sales occur on Friday (21,701 orders).
 Saturday has the lowest sales (20,510 orders).
 
 2. Are there any peak times for sales activity?
+
 Yes, the peak times for sales activity are between 8 AM and 11 AM. During these hours, the quantity of orders is significantly higher compared to other times of the day.
 
 3. What is the total sales revenue for each month?
+
 The dashboard does not directly provide monthly sales data. However, you can filter the dashboard by each month using the "Month Name" filter on the left side to view the total sales for specific months.
 
 4. How do sales vary across different locations?
+
 Sales are relatively similar across the three locations, with Hell's Kitchen having the highest footfall and orders, followed closely by Astoria and then Lower Manhattan.
 
 
 5. What is the average price per order per person?
+
 The average bill per person is $4.69. With an average order per person being 1.44
 
 
 
 6. Which products are best selling in terms of quantity and revenue?
+
+
 Top 5 Products Based on Sales Revenue:
+
 
 Barista Espresso: $91,406.20
 Brewed Black Tea: $47,932.00
