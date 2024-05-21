@@ -58,10 +58,17 @@ Small: 9%
 
 
 Summary
+
 Sales by Day and Hour: Sales peak in the mornings and are highest on Fridays.
+
 Peak Times: 8 AM to 11 AM.
+
 Monthly Sales Revenue: Use the month filter to determine specific values.
+
 Location Variance: Sales are slightly higher in Hell's Kitchen.
+
 Average Price per Order: Approximately $3.26.
+
 Best Selling Products: Barista Espresso, Brewed Black Tea, Brewed Chai Tea, Gourmet Brewed Coffee, Hot Chocolate.
+
 Product Category Variance: Coffee and bakery items are the highest revenue generators, with regular size being the most popular.
